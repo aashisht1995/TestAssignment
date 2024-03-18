@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestAssignment</string>
+    <string name="title_activity_splash">SplashActivity</string>
+
+
+    <string name="txt_dismiss">Cancel</string>
+    <string name="no_record_found">No Record Found</string>
+    <string name="no_more_data_found">No More Data Found.</string>
+    <string name="send_email_via">Send Email Via</string>
+    <string name="send_via_testassignment_app">-Send Via TestAssignment App</string>
+
+    <string name="check_internet_connection" translatable="false">Please check your internet connection.</string>
+
+</resources>
